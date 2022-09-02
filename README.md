@@ -5,3 +5,7 @@
  New strign
 
 Get any string
+ 
+ 
+ this's text 
+fix2 changes
